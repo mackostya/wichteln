@@ -11,6 +11,9 @@
 # production
 /build
 
+#no private images in repo
+src/images/private
+
 # misc
 .DS_Store
 .env.local
